@@ -1,0 +1,9 @@
+C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.csprojAssemblyReference.cache
+C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.csproj.CoreCompileInputs.cache
+C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.AssemblyInfoInputs.cache
+C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.AssemblyInfo.cs
+C:\Users\Balakh\Downloads\TestSs\TestSs\bin\Debug\netstandard2.0\TestSs.deps.json
+C:\Users\Balakh\Downloads\TestSs\TestSs\bin\Debug\netstandard2.0\TestSs.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs\bin\Debug\netstandard2.0\TestSs.pdb
+C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.pdb

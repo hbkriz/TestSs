@@ -1,0 +1,16 @@
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\obj\Debug\TestSs.UnitTest.csprojAssemblyReference.cache
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\obj\Debug\TestSs.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\TestSs.UnitTest.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\TestSs.UnitTest.pdb
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\TestSs.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\TestSs.pdb
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\obj\Debug\TestSs.UnitTest.csproj.CopyComplete
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\obj\Debug\TestSs.UnitTest.dll
+C:\Users\Balakh\Downloads\TestSs\TestSs.UnitTest\obj\Debug\TestSs.UnitTest.pdb
