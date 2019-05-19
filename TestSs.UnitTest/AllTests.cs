@@ -8,30 +8,23 @@ namespace TestSs.UnitTest
     [TestClass]
     public class AllTests
     {
-        private Repository<Storeable> _repository;
-        private Storeable _firstItem;
-        private Storeable _secondItem;
-        private Storeable _thirdItem;
+        private IRepository<IStoreable> _repository;
+        private IStoreable _firstItem = new Storeable { Id = 1, Name = "ExistingItem" };
+        private IStoreable _secondItem = new Storeable { Id = 2, Name = "SomeItem" };
+        private IStoreable _thirdItem = new Storeable { Id = 3, Name = "NewItemToBeSaved" };
 
-        [TestInitialize]
-        public void Initialize()
-        {
-            _repository = new Repository<Storeable>();
-            SetupMock();
-        }
+        public AllTests() : this(new Repository<IStoreable>()) { }
 
-        private void SetupMock()
+        public AllTests(IRepository<IStoreable> repository)
         {
-            _firstItem = new Storeable { Id = 1, Name = "ExistingItem" };
-            _secondItem = new Storeable { Id = 2, Name = "SomeItem" };
-            _thirdItem = new Storeable { Id = 3, Name = "NewItemToBeSaved" };
+            _repository = repository;
         }
 
         [TestMethod]
         public void All_Returns_IEnumberable()
         {
             var expected = _repository.All();
-            Assert.IsInstanceOfType(expected, typeof(IEnumerable<Storeable>));
+            Assert.IsInstanceOfType(expected, typeof(IEnumerable<IStoreable>));
         }
 
         [TestMethod]

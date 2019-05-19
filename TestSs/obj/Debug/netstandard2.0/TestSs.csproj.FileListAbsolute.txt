@@ -1,4 +1,3 @@
-C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.csprojAssemblyReference.cache
 C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.csproj.CoreCompileInputs.cache
 C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.AssemblyInfoInputs.cache
 C:\Users\Balakh\Downloads\TestSs\TestSs\obj\Debug\netstandard2.0\TestSs.AssemblyInfo.cs
